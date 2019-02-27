@@ -1,8 +1,17 @@
-**Decorator**
+# Decorator Design pattern
 
-Why we need it ?
-The decorator design pattern allows us to dynamically add functionality 
-and behavior to an object without affecting the behavior of other existing objects in the same class.
+----
+## What is Decorator
 
-Instead of extending using inheritance, which will change affect all objects of the class, 
-we can use Decorator to extend the behaviour for some concrete object at runtime. 
+
+> Decorator allows us to extend the behavior of some object on runtime without affecting the other objects of the same class.
+
+----
+## Examples 
+
+* Tasks:
+
+   1. [Pizza] (https://stackoverflow.com/questions/2707401/understand-the-decorator-pattern-with-a-real-world-example)
+   2. [Drawing](https://dzone.com/articles/decorator-design-pattern-in-java)
+
+* [Real software] (https://stackoverflow.com/questions/6366385/use-cases-and-examples-of-gof-decorator-pattern-for-io)
