@@ -1,6 +1,6 @@
 package com.company.Creational.FactoryMethod.CarFactory;
 
-public class CarProgram {
+public class Program {
 
     public static void main(String[] args) {
 
