@@ -24,3 +24,11 @@
      2.[Drawing](https://dzone.com/articles/decorator-design-pattern-in-java)
 
 * [Real software](https://stackoverflow.com/questions/6366385/use-cases-and-examples-of-gof-decorator-pattern-for-io)
+
+----
+## Comparison with other design patterns
+
+1. Decorator looks quite similar to Bridge design pattern but actually they are different:
+Main difference is that Decorator classes extend the main class that they want to decorate,
+in other words, they keep being the same type just enhancing some functionality. In contrary,
+in case of Bridge design pattern, an one abstraction does not extend the other one, but just has it.
